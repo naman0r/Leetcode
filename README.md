@@ -2,7 +2,7 @@
 
 notion: https://www.notion.so/namanrusia/LeetCode-Grind-15344c2674a6802d8779f5da81e6ffdc
 leetcode problems: https://leetcode.com/problems/
-leetcode 75 google sheet: https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit?gid=0#gid=0
+leetcode 75 google sheet: https://docs.google.com/spreadsheets/d/1PQSAy6d637qL9rhyCBAuUmHSnDL9asburZ5e2gDRFlo/edit?usp=sharing
 leetcode master doc:
 
 ### Patterns:
@@ -14,3 +14,7 @@ leetcode master doc:
 - [ ]
 - [ ]
 - [ ]
+
+## leetcode cli:
+
+`npm install -g leetcode-cli`
