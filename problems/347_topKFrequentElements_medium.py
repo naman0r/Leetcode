@@ -8,6 +8,14 @@ print(freq)
 # An array with 10 empty arrays. 
 
 
+
+
+'''
+
+THis is an o(n) time solution for this problem. 
+I brute forced it but it was very inefficient. I got this solution after wathcing the neetcode video. 
+COME BACK AT SOME POINT, NOT UNDERSTOOD PROPERLY. 
+'''
 class Solution(object):
     def topKFrequent(self, nums, k):
         """
