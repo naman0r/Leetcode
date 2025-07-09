@@ -10,10 +10,22 @@ leetcode master doc:
 - [ ] the sliding window pattern
 - [ ] the subset pattern
 - [ ] Binary Search pattern
+- [ ] Stacks
+- [ ] Queues
+- [ ] Sliding Window
 - [ ]
-- [ ]
-- [ ]
-- [ ]
+
+## simple commands
+
+```
+
+find . -type f -name '*_easy.py'
+
+find . -type f -name '*_medium.py'
+
+find . -type f -name '*_hard.py'
+
+```
 
 ## leetcode cli:
 
