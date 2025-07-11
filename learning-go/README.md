@@ -53,3 +53,25 @@ developers and projects:
    improvement through open-source projects, libraries, tools, and resources.
    This strong ecosystem helps ensure that Go remains relevant and evolves
    over time.
+
+## Running shared code:
+
+write code in go -> build the go code -> creates a .exe file -> others can run it without needing go installed in their computer (not the case for python, java, etc. )
+
+compile time error:
+
+```go
+
+package main
+
+import "fmt"
+
+func main() {
+   fmt.println("noclosingquote)
+}
+
+```
+
+## IN GO, VARIABLES ARE PASSED BY VALUE AND NOT BY REFERENCE, WHICH IS A VERY IMPORTANT DISTINCTION BERWEEN JAVA AND GO
+
+so mutation functions ????? do not exist?????
